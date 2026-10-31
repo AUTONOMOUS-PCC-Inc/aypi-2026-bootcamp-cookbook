@@ -1,0 +1,16 @@
+# Office 임시/잠금 파일
+~$*.pptx
+~$*.docx
+~$*.xlsx
+*.tmp
+
+# PowerPoint 자동 복구 파일
+*.asd
+*.wbk
+
+# OS 부산물
+Thumbs.db
+ehthumbs.db
+desktop.ini
+.DS_Store
+._*
